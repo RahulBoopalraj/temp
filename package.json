@@ -1,13 +1,13 @@
 {
-  "name": "crafto",
+  "name": "Fitzone",
   "version": "2.0.0",
-  "description": "The Multipurpose HTML5 Template",
+  "description": "Fitness Studio",
   "main": "gulpfile.js",
   "scripts": {
     "build": "vite build --base=./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ThemeZaa",
+  "author": "Ragavi",
   "license": "ISC", 
   "devDependencies": {
     "cssnano": "^6.0.1",
